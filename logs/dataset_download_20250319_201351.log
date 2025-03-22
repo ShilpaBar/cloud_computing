@@ -1,0 +1,10 @@
+2025-03-19 20:13:51,134 - dataset_download - INFO - Dataset downloaded and saved to data/raw/iris.csv
+2025-03-19 20:13:51,134 - dataset_download - INFO - Dataset shape: (1200, 5)
+2025-03-19 20:13:51,134 - dataset_download - INFO - Features: sepal length (cm), sepal width (cm), petal length (cm), petal width (cm)
+2025-03-19 20:13:51,134 - dataset_download - INFO - Number of classes: 3
+2025-03-19 20:13:51,134 - dataset_download - INFO - Classes: setosa, versicolor, virginica
+2025-03-19 20:13:51,143 - dataset_download - INFO - Samples per class:
+0    400
+1    400
+2    400
+Name: count, dtype: int64

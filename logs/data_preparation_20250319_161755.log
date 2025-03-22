@@ -1,0 +1,2 @@
+2025-03-19 16:17:55,468 - data_preparation - INFO - Loading data from data/raw/iris.csv
+2025-03-19 16:17:55,470 - data_preparation - ERROR - Error during data preparation: [Errno 2] No such file or directory: 'data/raw/iris.csv'

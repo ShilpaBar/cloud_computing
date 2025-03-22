@@ -1,0 +1,16 @@
+2025-03-19 16:18:30,961 - data_preparation - INFO - Loading data from data/raw/iris.csv
+2025-03-19 16:18:30,982 - data_preparation - INFO - Data validation passed successfully
+2025-03-19 16:18:30,998 - data_preparation - INFO - Saved training data (120 rows) to data/cloud\training_data.csv
+2025-03-19 16:18:30,999 - data_preparation - INFO - Saved test data (30 rows) to data/cloud\test_data.csv
+2025-03-19 16:18:30,999 - data_preparation - INFO - 
+Data Statistics:
+2025-03-19 16:18:30,999 - data_preparation - INFO - Number of features: 4
+2025-03-19 16:18:30,999 - data_preparation - INFO - Training set size: 120
+2025-03-19 16:18:30,999 - data_preparation - INFO - Test set size: 30
+2025-03-19 16:18:31,006 - data_preparation - INFO - Target distribution:
+target
+0    0.333333
+1    0.333333
+2    0.333333
+Name: proportion, dtype: float64
+2025-03-19 16:18:31,006 - data_preparation - INFO - Data preparation completed successfully

@@ -1,0 +1,2 @@
+feature_names,target_names
+"['sepal length (cm)', 'sepal width (cm)', 'petal length (cm)', 'petal width (cm)']","['setosa', 'versicolor', 'virginica']"
